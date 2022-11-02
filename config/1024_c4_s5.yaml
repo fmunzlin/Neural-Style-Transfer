@@ -1,0 +1,27 @@
+# Generator
+num_filters: 64
+num_filters_mlp: 256
+style_dims: 64
+num_res_blocks: 2
+num_mlp_blocks: 3
+num_downsamples_style: 5
+num_downsamples_content: 4
+num_image_channels: 3
+weight_norm_type: 'none'
+nonlinearity: 'relu'
+coco_usb_dims: 1024
+# VGG specifics
+vgg_dim: 512
+ConvBlocks: false
+
+# discriminator: 
+image_channels: 3
+dis_num_filters: 64
+dis_max_num_filters: 1024
+dis_num_layers: 6
+dis_padding_mode: 'reflect'
+dis_weight_norm_type: 'spectral'
+
+
+
+
