@@ -11,5 +11,5 @@ Throughout history, art regularly had to reinvent itself. Now, machine learning 
 To run the application, please download the Places365 dataset and add art dataset to folder "data". 
 
 # Thesis und Colloquium
-To get an overview on our results please cosinder the [colloquium](https://github.com/fmunzlin/Master-Thesis/blob/main/Colloquium_munzlinger.pdf). Attached you also find my [thesis](https://github.com/fmunzlin/Master-Thesis/blob/main/Masterarbeit_Munzlinger.pdf).
+To get an overview on our results please cosinder the [colloquium](https://github.com/fmunzlin/Neural-Style-Transfer/blob/main/Colloquium_munzlinger.pdf). Attached you also find my [thesis](https://github.com/fmunzlin/Neural-Style-Transfer/blob/main/Masterarbeit_Munzlinger.pdf).
 
