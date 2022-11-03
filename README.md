@@ -1,8 +1,5 @@
 # Neural-Style-Transfer
 
-
-# Content
-
 1. Abstract
 2. Implementation
 3. Thesis und Colloquium
