@@ -17,7 +17,7 @@ To get an overview on our results please cosinder the [colloquium](https://githu
 
 ![Heidelberg Brueckenaffe stylized in the style of Picasso](figures/Ape_1_Picasso.jpg)
 ![Heidelberg Brueckenaffe stylized in the style of Peploe](figures/Ape_2_1_Peploe.jpg)
-![Heidelberg Brueckenaffe stylized in the style of Roerich](figures/Ape_2_1_Roerich.jpg.jpg)
+![Heidelberg Brueckenaffe stylized in the style of Roerich](figures/Ape_2_1_Roerich.jpg)
 ![Heidelberg Brueckenaffe stylized in the styles of Pollock and Kirchner](figures/ape_2_2_Pollock_kirchner.jpg)
 ![Heidelberg Brueckenaffe stylized in the styles of Picasso and Manet](figures/Ape_2_2_Picasso_Manet.jpg)
 ![Heidelberg castle stylized in the styles of Pissarro and Picasso](figures/HD_2_2_pissarro_picasso.jpg)
