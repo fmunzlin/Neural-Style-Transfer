@@ -13,3 +13,5 @@ To run the application, please download the Places365 dataset and add art datase
 # Thesis und Colloquium
 To get an overview on our results please cosinder the [colloquium](https://github.com/fmunzlin/Neural-Style-Transfer/blob/main/Colloquium_munzlinger.pdf). Attached you also find my [thesis](https://github.com/fmunzlin/Neural-Style-Transfer/blob/main/Masterarbeit_Munzlinger.pdf).
 
+# Results
+![Heidelberg Brueckenaffe stylized in the style of Samuel Peploe](figures/Ape_2_1_Peploe.jpg)
