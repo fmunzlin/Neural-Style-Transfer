@@ -1,4 +1,5 @@
-This work was part of my master thesis done in the Computer Vision & Learning research group ([CompVis]([https://github.com/user/repo/blob/branch/other_file.md](https://ommer-lab.com))) of Prof Ommer. 
+This work was part of my master thesis done in the Computer Vision & Learning research group ([CompVis](https://ommer-lab.com)) of Prof Ommer. 
+
 
 
 
